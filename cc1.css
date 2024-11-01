@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+.navbar1{ background-color:#F66;
+
+	
+	}
+.nav2 {
+color:Black!important;	
+}
+.list1{ color:#FFC!important;
+	}
+.parallax {
+    /* The image used */
+    background-image: url("img_parallax.jpg");
+
+    /* height */
+    min-height: 500px; 
+
+    /* parallax with scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.abcd{ font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	
+	}
